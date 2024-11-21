@@ -1,7 +1,7 @@
 # Fire Detection Project 🔥
 
 ## Objective 🎯
-The aim of this project is to develop a model capable of detecting fire-related objects in images captured by surveillance towers located in forests. This solution is designed to assist French firefighters in enhancing forest protection and improving early fire detection efforts.
+The aim of this project is to develop in only one week a model capable of detecting fire-related objects in images captured by surveillance towers located in forests. This solution is designed to assist French firefighters in enhancing forest protection and improving early fire detection efforts.
 
 ---
 
